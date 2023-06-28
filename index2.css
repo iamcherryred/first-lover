@@ -1,0 +1,11 @@
+* {
+	font-family: 'Noto Serif JP', serif;
+}
+
+#firstpage {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
